@@ -32,7 +32,7 @@ if [[ -n "${khtmp}" ]]; then
 fi
 
 
-echo -e "\nPlease input Iran Server IP : "
+
 printf "Server IP is \e[33m${ipiran}\e[0m, let it blank to use this IP: "
 read irtmp
 if [[ -n "${irtmp}" ]]; then
