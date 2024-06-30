@@ -12,7 +12,7 @@ printshahan() {
 }
 clear
 echo ""
-printshahan "Your Panel Tunnel :) By Ramin-HamedAp" 0.05
+printshahan "Your Tunnel Panel Iran Server :) By ESSIE-MORPH" 0.05
 echo ""
 echo ""
 printshahan "Please Wait . . ." 0.05
@@ -25,15 +25,15 @@ port=$(echo "$po" | sed "s/Port //g")
 ipiran=$(curl -s ipv4.icanhazip.com)
 
 
-echo -e "\nPlease input IP Kharej : "
+echo -e "\nPlease input Kharej Server IP : "
 read khtmp
 if [[ -n "${khtmp}" ]]; then
     ipkharej=${khtmp}
 fi
 
 
-echo -e "\nPlease input IP Iran : "
-printf "Default IP is \e[33m${ipiran}\e[0m, let it blank to use this IP: "
+echo -e "\nPlease input Iran Server IP : "
+printf "Server IP is \e[33m${ipiran}\e[0m, let it blank to use this IP: "
 read irtmp
 if [[ -n "${irtmp}" ]]; then
     ipiran=${irtmp}
@@ -79,6 +79,6 @@ ENDOFFILE
 
 clear
 echo ""
-printshahan "Installed Successfully :) Please Run Next Command In Server Kharej :) " 0.05
+printshahan "Installation Complete Successfully :) Please Run Kharej Command In Kharej Server :) " 0.05
 echo ""
 echo ""
