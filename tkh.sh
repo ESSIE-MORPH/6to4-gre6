@@ -25,7 +25,7 @@ port=$(echo "$po" | sed "s/Port //g")
 ipkharej=$(curl -s ipv4.icanhazip.com)
 
 
-echo -e "\nPlease input Kharej Server IP : "
+
 printf "Server IP is \e[33m${ipkharej}\e[0m, let it blank to use this IP: "
 read khtmp
 if [[ -n "${khtmp}" ]]; then
