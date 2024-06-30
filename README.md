@@ -27,7 +27,7 @@ https://t.me/panel2panel
 <p dir="auto">سرور خارج رو وارد میکنید و سرور ایران رو خودش نمایش میده یک اینتر بزنید ثبت میشه</p>
 <br><br>
 
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="bash &lt;(curl -Ls https://raw.githubusercontent.com/raminol12/6to4-gre6/main/tir.sh --ipv4)"><pre class="notranslate"><code>bash &lt;(curl -Ls https://raw.githubusercontent.com/raminol12/6to4-gre6/main/tir.sh --ipv4)
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="bash &lt;(curl -Ls https://raw.githubusercontent.com/raminol12/6to4-gre6/main/tir.sh --ipv4)"><pre class="notranslate"><code>bash &lt;(curl -Ls https://raw.githubusercontent.com/ESSIE-MORPH/6to4-gre6/main/tir.sh --ipv4)
 </code></pre></div>
 
 <br>
@@ -46,7 +46,7 @@ https://t.me/panel2panel
 <p dir="auto">سرور خارج رو خودش نشون میده یک اینتر میزنید و بعد سرور ایران رو بصورت دستی وارد میکنید</p>
 <br>
 
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="bash &lt;(curl -Ls https://raw.githubusercontent.com/raminol12/6to4-gre6/main/tkh.sh --ipv4)"><pre class="notranslate"><code>bash &lt;(curl -Ls https://raw.githubusercontent.com/raminol12/6to4-gre6/main/tkh.sh --ipv4)
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="bash &lt;(curl -Ls https://raw.githubusercontent.com/raminol12/6to4-gre6/main/tkh.sh --ipv4)"><pre class="notranslate"><code>bash &lt;(curl -Ls https://raw.githubusercontent.com/ESSIE-MORPH/6to4-gre6/main/tkh.sh --ipv4)
 </code></pre></div>
 
 
