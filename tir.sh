@@ -79,6 +79,6 @@ ENDOFFILE
 
 clear
 echo ""
-printshahan "Installation Complete Successfully :) Please Run Kharej Command In Kharej Server :) " 0.05
+printshahan "Installation Completed Successfully :) Please Run Kharej Command In Kharej Server :) " 0.05
 echo ""
 echo ""
