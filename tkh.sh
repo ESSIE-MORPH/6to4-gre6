@@ -12,7 +12,7 @@ printshahan() {
 }
 clear
 echo ""
-printshahan "Your Panel Tunnel Command 2  :) By Ramin-HamedAp" 0.05
+printshahan "Your Panel Tunnel Kharej Command  :) By ESSIE-MORPH" 0.05
 echo ""
 echo ""
 printshahan "Please Wait . . ." 0.05
@@ -26,14 +26,14 @@ ipkharej=$(curl -s ipv4.icanhazip.com)
 
 
 echo -e "\nPlease input IP Kharej : "
-printf "Default IP is \e[33m${ipkharej}\e[0m, let it blank to use this IP: "
+printf "Server IP is \e[33m${ipkharej}\e[0m, let it blank to use this IP: "
 read khtmp
 if [[ -n "${khtmp}" ]]; then
     ipkharej=${khtmp}
 fi
 
 
-echo -e "\nPlease input IP Iran : "
+echo -e "\nPlease input Iran Server IP : "
 read irtmp
 if [[ -n "${irtmp}" ]]; then
     ipiran=${irtmp}
